@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. UCSB, California #Address. Contacts. Motto. Etc.
 
