@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink: /about/
 subtitle: <a href='#'>Current Affiliations</a>. UCSB, California #Address. Contacts. Motto. Etc.
 
 profile:
