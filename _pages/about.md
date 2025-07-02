@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. UCSB, California #Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Current Affiliations</a>. UCSB, California #Address. Contacts. Motto. Etc.
 
 profile:
   align: right
