@@ -59,14 +59,14 @@ ninja.data = [{
             window.location.href = "/people/";
           },
         },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+              title: "Bookshelf",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/books/";
               },
             },{id: "dropdown-blog",
-              title: "blog",
+              title: "Blog",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -504,11 +504,11 @@ ninja.data = [{
           window.open("mailto:%62%69%6F%74%65%63%68.%70%61%6E%6B%61%6A@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/{"orcid_id"=>"0000-0003-0144-0107# your ORCID ID"}", "_blank");
+          window.open("https://www.linkedin.com/in/Pankaj Mogha", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -516,6 +516,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=3grCAfEAAAAJ&hl=en", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/Pankaj_27March", "_blank");
         },
       },{
       id: 'light-theme',
