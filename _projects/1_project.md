@@ -26,9 +26,9 @@ _styles: |
     background-position: center 10%, left 70%, right 82%;
     background-repeat: no-repeat;
     background-size: min(900px, 95vw), min(520px, 55vw), min(560px, 60vw);
-    opacity: 0.16;
+    opacity: 0.5;
     transform: scale(1.12);
-    animation: rna-project-zoom 1400ms ease-out forwards;
+    animation: rna-project-zoom 5000ms cubic-bezier(0.16, 1, 0.3, 1) forwards;
   }
 
   .post::after {
@@ -37,18 +37,19 @@ _styles: |
     inset: 0;
     z-index: -1;
     background: var(--global-bg-color);
-    opacity: 0.72;
+    opacity: 0.22;
   }
 
   .post-header,
   .post article {
     position: relative;
     border-radius: 8px;
-    background: color-mix(in srgb, var(--global-bg-color) 82%, transparent);
-    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
+    background: rgba(255, 255, 255, 0.54);
+    box-shadow: 0 14px 36px rgba(0, 0, 0, 0.12);
+    backdrop-filter: blur(1px);
     opacity: 0;
     transform: translateY(10px);
-    animation: rna-content-in 700ms ease-out 220ms forwards;
+    animation: rna-content-in 1400ms ease-out 850ms forwards;
   }
 
   .post-header {
@@ -62,13 +63,19 @@ _styles: |
 
   @keyframes rna-project-zoom {
     from {
-      opacity: 0.05;
-      transform: scale(1.22);
+      opacity: 0.16;
+      transform: scale(1.35);
     }
     to {
-      opacity: 0.16;
-      transform: scale(1.04);
+      opacity: 0.5;
+      transform: scale(1.02);
     }
+  }
+
+  html[data-theme="dark"] .post-header,
+  html[data-theme="dark"] .post article {
+    background: rgba(18, 18, 18, 0.58);
+    box-shadow: 0 14px 36px rgba(0, 0, 0, 0.28);
   }
 
   @keyframes rna-content-in {
