@@ -1,81 +1,18 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
-published: false
+title: Spheroid generation and tissue engineering platforms
+description: Low-cost, high-throughput platforms for 3D cell culture and tissue modeling.
+img:
+importance: 5
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Three-dimensional cell culture systems such as spheroids provide more physiologically relevant models than conventional two-dimensional culture because they better capture cell-cell interactions, gradients, tissue-like organization, and microenvironmental heterogeneity. Spheroids are useful for studying development, disease modeling, drug response, tissue engineering, and regenerative medicine.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project builds on my work developing a low-cost, high-throughput spheroid generation platform. The goal is to make 3D culture more accessible, reproducible, and scalable for laboratories that need simple tools for generating uniform multicellular structures without relying on expensive or low-throughput systems.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+High-throughput spheroid platforms are valuable because spheroid size, shape, and uniformity strongly affect downstream biology. Differences in geometry can change nutrient diffusion, oxygen gradients, mechanical stress, cell viability, gene expression, and response to perturbations. A useful platform must therefore balance simplicity, cost, scalability, reproducibility, and compatibility with downstream imaging or molecular assays.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Current spheroid generation methods include hanging drops, low-adhesion plates, microwells, microfluidic devices, bioprinting, and scaffold-based systems. Each has tradeoffs. Some methods are inexpensive but low-throughput or variable; others are precise but require specialized fabrication, equipment, or expertise. Maintaining size uniformity, recovering spheroids without damage, and integrating with omics or functional assays remain practical challenges.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+This project focuses on developing accessible tissue engineering tools that support reproducible 3D cell culture, scalable spheroid generation, and future integration with disease modeling and microphysiological systems.

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Current Affiliations</a>. UCSB, California #Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Scholar, UC Santa Barbara
 
 profile:
   align: right
@@ -27,13 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I’m Dr. Pankaj Mogha — a researcher passionate about integrating cutting-edge single-cell technologies with organ-on-chip platforms to explore stem cell biology, tissue engineering, and epitranscriptomics.
+Hello! I’m Dr. Pankaj Mogha, a postdoctoral scholar at UC Santa Barbara working at the intersection of RNA biology, single-cell and spatial omics, organ-on-chip systems, mechanobiology, and stem cell engineering.
 
 I earned my BTech in Biotechnology in India, followed by a Master’s degree in Biotechnology from QUT Brisbane. I completed my PhD from the Chemical Engineering Department at IIT Bombay in 2021, where I focused on mechanobiology and its effects on maintenance of primary stem cells.
 
-Currently, I’m a postdoctoral scholar at UC Santa Barbara, working at the intersection of single-cell transcriptomics. Before UCSB, I completed a postdoc at Duke University, where I worked towards the development of vascularized lung-on-chip and nociception-on-chip models.
+Currently, my research focuses on RNA structure and RNA modifications during development, with an emphasis on connecting molecular regulation to cellular heterogeneity. Before UCSB, I completed a postdoc at Duke University, where I worked on vascularized lung-on-chip and nociception-on-chip models.
 
-My research vision centers on building physiologically relevant in vitro models to decode cellular decision-making in development and disease with a special emphasis on applying spatial transcriptomics and RNA modifications to understand cellular heterogeneity.
+My broader research program centers on building physiologically relevant in vitro models and molecular maps to decode cellular decision-making in development and disease. Key themes include RNA structure and modifications, organ-on-chip disease models, single-cell and spatial transcriptomics, mechanobiology of stem cell fate, and scalable 3D tissue engineering platforms.
 
 Outside of the lab, I’m passionate about mentoring young scientists, building collaborative networks, and translating science into solutions that matter.
-
