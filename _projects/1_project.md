@@ -2,7 +2,7 @@
 layout: page
 title: RNA structure and modifications
 description: RNA structure, RNA modifications, and developmental regulation.
-img:
+img: assets/img/rna-structure-bulge-c2.png
 importance: 1
 category: work
 ---
