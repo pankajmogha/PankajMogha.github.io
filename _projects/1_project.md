@@ -16,3 +16,7 @@ Chemical probing methods such as SHAPE, DMS, icSHAPE, and related mutational pro
 A major limitation across all approaches is that RNA is not a single static object. Many RNAs occupy ensembles of conformations that shift with ions, temperature, proteins, metabolites, modifications, and cellular state. High-resolution methods can miss rare or transient conformations, while transcriptome-wide probing can lose long-range contacts and three-dimensional detail. Computational prediction has improved, but RNA tertiary structure remains difficult because flexible backbones, noncanonical base pairs, pseudoknots, modifications, and ligand- or protein-dependent folding are hard to model from sequence alone.
 
 This project focuses on integrating experimental and computational strategies to better understand RNA structure, RNA modifications, dynamics, and function in biologically relevant developmental contexts.
+
+## Related publications
+
+Publications related to this current research direction will be added as they become available. See the full [publications list](/publications/).

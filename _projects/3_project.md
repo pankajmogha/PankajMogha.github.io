@@ -16,3 +16,7 @@ Current single-cell approaches include droplet-based sequencing, plate-based seq
 The major strength of single-cell sequencing is its ability to resolve diverse cell states and rare populations, but it usually loses spatial context during tissue dissociation. Dissociation can also introduce stress responses, selectively lose fragile cell types, and alter the apparent composition of a sample. Spatial transcriptomics preserves tissue organization, but current platforms vary widely in resolution, sensitivity, gene coverage, throughput, cost, and tissue compatibility.
 
 This project focuses on using single-cell and spatial transcriptomic approaches to understand how cellular identity, tissue organization, and molecular programs interact in development and disease-relevant biological systems.
+
+## Related publications
+
+Publications related to this current research direction will be added as they become available. See the full [publications list](/publications/).

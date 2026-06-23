@@ -16,3 +16,11 @@ Current organ-on-chip technologies combine microfabrication, biomaterials, stem 
 Despite their promise, organ-on-chip models still face important limitations. Device fabrication and operation can be technically demanding, and protocols are not yet standardized across laboratories. Reproducing full tissue complexity remains difficult, especially for long-term maturation, innervation, immune integration, vascular perfusion, and organ-organ communication. Many platforms have low throughput compared with standard screening methods, and biological variability from primary or stem-cell-derived cells can complicate interpretation.
 
 This project focuses on building and applying organ-on-chip systems that better capture human tissue microenvironments for disease modeling, therapeutic discovery, and mechanistic studies.
+
+## Related publications
+
+- [Modeling functional responses to pollutant exposure using modular hydrogel supported vascularized alveolosphere-on-a-chip](/publications/#Perikamana2025Alveolosphere)
+- [Differential roles of normal and lung cancer-associated fibroblasts in microvascular network formation](/publications/#nateshDifferentialRolesNormal2024)
+- [Self-assembled innervated vasculature-on-a-chip to study nociception](/publications/#kumarSelfassembledInnervatedVasculatureonachip2023)
+
+See the full [publications list](/publications/).

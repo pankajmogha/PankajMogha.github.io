@@ -16,3 +16,9 @@ High-throughput spheroid platforms are valuable because spheroid size, shape, an
 Current spheroid generation methods include hanging drops, low-adhesion plates, microwells, microfluidic devices, bioprinting, and scaffold-based systems. Each has tradeoffs. Some methods are inexpensive but low-throughput or variable; others are precise but require specialized fabrication, equipment, or expertise. Maintaining size uniformity, recovering spheroids without damage, and integrating with omics or functional assays remain practical challenges.
 
 This project focuses on developing accessible tissue engineering tools that support reproducible 3D cell culture, scalable spheroid generation, and future integration with disease modeling and microphysiological systems.
+
+## Related publications
+
+- [Shape, Shrink, Spheroid: A DIY High-throughput Spheroid Generation Device](/publications/#Mogha2026Spheroid)
+
+See the full [publications list](/publications/).
