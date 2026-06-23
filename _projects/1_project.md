@@ -26,7 +26,7 @@ _styles: |
     background-position: center 10%, left 70%, right 82%;
     background-repeat: no-repeat;
     background-size: min(900px, 95vw), min(520px, 55vw), min(560px, 60vw);
-    opacity: 0.5;
+    opacity: 1;
     transform: scale(1.12);
     animation: rna-project-zoom 5000ms cubic-bezier(0.16, 1, 0.3, 1) forwards;
   }
@@ -63,11 +63,11 @@ _styles: |
 
   @keyframes rna-project-zoom {
     from {
-      opacity: 0.16;
+      opacity: 0.45;
       transform: scale(1.35);
     }
     to {
-      opacity: 0.5;
+      opacity: 1;
       transform: scale(1.02);
     }
   }
