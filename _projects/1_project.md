@@ -10,7 +10,7 @@ _styles: |
     position: relative;
     overflow: hidden;
     border-radius: 8px;
-    padding: 2rem;
+    padding: 2rem clamp(1rem, 8vw, 6rem);
     isolation: isolate;
   }
 
@@ -21,11 +21,10 @@ _styles: |
     z-index: -2;
     background-image:
       url("/assets/img/rna-structure-bulge-c2b.png"),
-      url("/assets/img/rna-structure-bulge-c2b.png"),
       url("/assets/img/rna-structure-bulge-c2b.png");
-    background-position: center 10%, left 70%, right 82%;
+    background-position: left -260px top 5rem, right -250px top 34rem;
     background-repeat: no-repeat;
-    background-size: min(900px, 95vw), min(520px, 55vw), min(560px, 60vw);
+    background-size: clamp(420px, 42vw, 680px), clamp(420px, 42vw, 680px);
     opacity: 1;
     transform: scale(1.12);
     animation: rna-project-zoom 5000ms cubic-bezier(0.16, 1, 0.3, 1) forwards;
@@ -47,6 +46,9 @@ _styles: |
     background: rgba(255, 255, 255, 0.54);
     box-shadow: 0 14px 36px rgba(0, 0, 0, 0.12);
     backdrop-filter: blur(1px);
+    max-width: 780px;
+    margin-left: auto;
+    margin-right: auto;
     opacity: 0;
     transform: translateY(10px);
     animation: rna-content-in 1400ms ease-out 850ms forwards;
@@ -88,6 +90,11 @@ _styles: |
   @media (max-width: 576px) {
     .post {
       padding: 1rem;
+    }
+
+    .post::before {
+      background-position: center top 2rem, center bottom 2rem;
+      background-size: 110vw, 110vw;
     }
 
     .post-header,
