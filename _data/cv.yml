@@ -2,96 +2,263 @@
   type: map
   contents:
     - name: Full Name
-      value: Pankaj Mogha
-    - name: Date of Birth
-      value: 27th March 1887
+      value: Pankaj Mogha, Ph.D.
+    - name: Current Role
+      value: Postdoctoral Scholar, UC Santa Barbara
+    - name: Research Areas
+      value: Mechanobiology, organ-on-chip models, stem cell engineering, single-cell sequencing, spatial omics, and RNA modifications
+    - name: Email
+      value: biotech.pankaj@gmail.com
+    - name: ORCID
+      value: 0000-0003-0144-0107
+    - name: H-index
+      value: 9
     - name: Languages
       value: English, Hindi
+
+- title: Research Profile
+  type: list
+  contents:
+    - Postdoctoral scholar developing vascularized organ-on-chip disease models that integrate mechanobiology, biomaterials, stem cell engineering, single-cell sequencing, and spatial omics.
+    - Research focuses on how the cellular microenvironment, extracellular matrix composition, matrix mechanics, and tissue architecture regulate stem cell maintenance, expansion, differentiation, and disease-relevant phenotypes.
+    - Long-term goal is to build clinically relevant microphysiological models for therapeutic discovery, regenerative medicine, and mechanistic studies of development and disease.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D.
       institution: Indian Institute of Technology Bombay
-      year: 2021
+      location: Mumbai, India
+      year: Dec 2014 - Jul 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Thesis: Effect of cellular microenvironment on primary stem cell maintenance, expansion, and proliferation."
+        - "Recognition: Prof. KC Khilar Ph.D. Award."
+    - title: Graduate Diploma in Management
+      institution: Central Queensland University
+      location: Brisbane, Australia
+      year: 2012
+    - title: M.S., Biotechnology
+      institution: Queensland University of Technology
+      location: Brisbane, Australia
+      year: 2012
       description:
-        - Description 1.
-        - Description 2.
+        - "Thesis: Epitope identification of CMRF44 antibody."
+    - title: Bachelors
+      institution: Uttar Pradesh Technical University
+      location: Lucknow, India
+      year: 2009
+      description:
+        - "Project: Cloning of PLD gene from Chlamydia trachomatis."
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Scholar
+      institution: Dey Lab, UC Santa Barbara
+      location: Santa Barbara, CA
+      year: Apr 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Investigating the role of RNA structure and RNA modifications during development.
+        - Applying single-cell sequencing approaches to study developmental and disease-relevant biology.
+    - title: Postdoctoral Scholar
+      institution: Varghese Lab, Duke University
+      location: Durham, NC
+      year: Apr 2022 - Apr 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Developed in vitro disease models for lung extravasation and mechanical nociception.
+        - Contributed to modular hydrogel-supported vascularized alveolosphere-on-a-chip models for pollutant exposure studies.
+    - title: Postdoctoral Researcher
+      institution: M-Lab, IIT Bombay
+      location: Mumbai, India
+      year: Jul 2021 - Dec 2021
       description:
+        - Explored effects of ECM protein coating on stem cell proliferation.
+        - Investigated ECM protein gelatin for long-term culture and expansion of mesenchymal stem cells.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Patent
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Fabrication of low-cost high-throughput spheroid generation device
+      institution: Indian Patent Application No. 202421044714
+      year: Jun 2024
+      description:
+        - Patent application submitted June 10, 2024.
 
-- title: Honors and Awards
+- title: Publications
   type: time_table
   contents:
-    - year: 1921
+    - title: "Shape, Shrink, Spheroid: A DIY High-throughput Spheroid Generation Device"
+      institution: bioRxiv
+      year: 2026
+      description:
+        - Mogha, P., Mukherjee, S., Gangwar, T., Roy, D., Vichare, A., Kulkarni, S., Sharma, V., & Majumder, A.
+        - "doi:10.64898/2026.05.31.729042"
+    - title: Modeling functional responses to pollutant exposure using modular hydrogel supported vascularized alveolosphere-on-a-chip
+      institution: Biomaterials Science
+      year: 2025
+      description:
+        - Perikamana, S. K. M., Kumar, V., Mogha, P., Duncan, L., Tata, A., Jabba, S. V., Jordt, S. E., Tata, P., & Varghese, S.
+        - "13(21):6046"
+    - title: Differential roles of normal and lung cancer-associated fibroblasts in microvascular network formation
+      institution: APL Bioengineering
+      year: 2024
+      description:
+        - Natesh, N. R., Mogha, P., Chen, A., Antonia, S. J., & Varghese, S.
+        - "8(1):016120"
+    - title: Self-assembled innervated vasculature-on-a-chip to study nociception
+      institution: Biofabrication
+      year: 2023
+      description:
+        - Kumar, V., Kingsley, D., Perikamana, S. M., Mogha, P., Goodwin, C. R., & Varghese, S.
+        - "15(3)"
+    - title: Extracellular matrix protein gelatin provides higher expansion, reduces size heterogeneity, and maintains cell stiffness in a long-term culture of mesenchymal stem cells
+      institution: Tissue and Cell
+      year: 2022
+      description:
+        - Mogha, P., Iyer, S., & Majumder, A.
+        - "80:101969"
+    - title: Mycobacterium lipids modulate host cell membrane mechanics, lipid diffusivity, and cytoskeleton in a virulence-selective manner
+      institution: ACS Infectious Diseases
+      year: 2020
+      description:
+        - Mishra, M., Dadhich, R., Mogha, P., & Kapoor, S.
+        - "6:2386-2399"
+    - title: Soft substrate maintains proliferative and adipogenic differentiation potential of human mesenchymal stem cells on long-term expansion by delaying senescence
+      institution: Biology Open
+      year: 2019
+      description:
+        - Kureel, S. K., Mogha, P., Khadpekar, A., Kumar, V., Joshi, R., Das, S., Bellare, J., & Majumder, A.
+        - "8"
+    - title: Hydrogel scaffold with substrate elasticity mimicking physiological-niche promotes proliferation of functional keratinocytes
+      institution: RSC Advances
+      year: 2019
+      description:
+        - Mogha, P., et al.
+        - "9:10174-10183"
+    - title: Cell density overrides the effect of substrate stiffness on human mesenchymal stem cells' morphology and proliferation
+      institution: Biomaterials Science
+      year: 2018
+      description:
+        - Venugopal, B., Mogha, P., Dhawan, J., & Majumder, A.
+        - "6:1109-1119"
+    - title: Matrix elasticity regulates mesenchymal stem cell chemotaxis
+      institution: Journal of Cell Science
+      year: 2018
+      description:
+        - Saxena, N., Mogha, P., Dash, S., Majumder, A., Jadhav, S., & Sen, S.
+        - "131:jcs211391"
+    - title: Soft drug-resistant ovarian cancer cells migrate via two distinct mechanisms utilizing myosin II-based contractility
+      institution: Biochimica et Biophysica Acta
+      year: 2018
+      description:
+        - Kapoor, A., et al.
+        - "1865:392-405"
+
+- title: Teaching Assistantship
+  type: time_table
+  contents:
+    - title: Atomic Force Microscopy
+      institution: IIT Bombay
+      location: Mumbai, India
+      year: Dec 2015 - Jul 2021
+      description:
+        - Supported hands-on teaching and experimental training in AFM-based biophysical measurement.
+    - title: Laser Confocal Microscopy
+      institution: IIT Bombay
+      location: Mumbai, India
+      year: Jan 2018 - May 2021
+      description:
+        - Supported microscopy instruction, imaging workflows, and student training.
+
+- title: Awards
+  type: time_table
+  contents:
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Prof. KC Khilar Best Thesis Award, IIT Bombay.
+    - year: 2019
       items:
-        - Max Planck Medal
+        - Travel Award, EMBO.
+    - year: 2018
+      items:
+        - Travel Award, CCMB.
+    - year:
+      items:
+        - Best Poster Award, IIT Kanpur.
+        - Consolation Prize, IIT Roorkee.
 
-- title: Academic Interests
+- title: Presentations and Conferences
+  type: time_table
+  contents:
+    - title: Fabrication of high-throughput low-cost spheroid generation device
+      institution: International Conference On Advances In 3D Cell Culture, ICT Mumbai
+      year: Feb 2024
+      description:
+        - Best Poster.
+    - title: Fabrication of high-throughput low-cost spheroid generation device
+      institution: 3DGraphy conference, IIT Bombay
+      year: Dec 2023
+      description:
+        - Best Poster.
+    - title: Fabrication of high-throughput low-cost spheroid generation device
+      institution: India - EMBO Lecture Course, IICT Hyderabad
+      year: Nov 2022
+      description:
+        - "Microphysiological Systems: Advances and Applications in Human-relevant Research."
+        - Best Poster.
+    - title: Inter-cellular force interaction overrides cellular response to substrate stiffness in human mesenchymal stem cells
+      institution: EMBL
+      location: Germany
+      year: 2019
+    - title: Cell density overrides the effect of substrate stiffness on human mesenchymal stem cells' morphology and proliferation
+      institution: RSS, IIT Bombay
+      location: India
+      year: 2019
+    - title: Optimized substrate to maintain primary human keratinocytes in long-term culture for regenerative use
+      institution: CCMB
+      location: India
+      year: 2018
+    - title: Inter-cellular force interaction overrides cellular response to substrate stiffness in human mesenchymal stem cells
+      institution: DBT-Wellcome Symposia
+      location: India
+      year: 2018
+    - title: Inter-cellular force interaction overrides cellular response to substrate stiffness in human mesenchymal stem cells
+      institution: NCBS
+      location: India
+      year: 2016
+
+- title: Research Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Organ-on-Chip and Disease Models
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Vascularized organ-on-chip systems, alveolosphere-on-a-chip, in vitro lung extravasation models, nociception models, spheroid generation devices.
+    - title: Mechanobiology and Biomaterials
       items:
-        - Description 1.
-        - Description 2.
+        - ECM protein coatings, matrix stiffness, hydrogel scaffolds, substrate elasticity, stem cell microenvironment design, cell-matrix and cell-cell force interactions.
+    - title: Stem Cell and Cell Biology
+      items:
+        - Primary stem cell maintenance, expansion and proliferation, mesenchymal stem cells, keratinocytes, fibroblast biology, cancer-associated fibroblast differentiation.
+    - title: Omics and Developmental Biology
+      items:
+        - Single-cell sequencing, spatial omics, RNA structure and RNA modifications during development.
+    - title: Engineering and Fabrication
+      items:
+        - Low-cost high-throughput spheroid generation device development, microphysiological systems, biomaterial scaffold design.
 
-- title: Other Interests
+- title: Reviewer Service
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - APL Bioengineering.
+    - Bio-protocol.
+    - Journal of Pharmaceutical Innovation, Springer Nature.
+    - BMC Plastic and Reconstructive Surgery, Springer Nature.
+
+- title: References
+  type: list
+  contents:
+    - "Dr. Siddharth Dey, University of California, Santa Barbara - sdey@ucsb.edu"
+    - "Dr. Shyni Varghese, Duke University - shyni.varghese@duke.edu"
+    - "Dr. Abhijit Majumder, IIT Bombay - abhijitm@iitb.ac.in"
+    - "Dr. Jayesh Bellare, IIT Bombay - jb@iitb.ac.in"
+    - "Dr. Shobhna Kapoor, IIT Bombay - shobhnakapoor@chem.iitb.ac.in"
