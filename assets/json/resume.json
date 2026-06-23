@@ -1,200 +1,276 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Pankaj Mogha, Ph.D.",
+    "label": "Postdoctoral Scholar | Mechanobiology | Organ-on-Chip & Stem Cell Engineering",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "biotech.pankaj@gmail.com",
+    "url": "https://pankajmogha.github.io/",
+    "summary": "Postdoctoral scholar developing vascularized organ-on-chip disease models that integrate mechanobiology, biomaterials, stem cell engineering, single-cell sequencing, and spatial omics. My research program focuses on how the cellular microenvironment, extracellular matrix composition, matrix mechanics, and tissue architecture regulate stem cell maintenance, expansion, differentiation, and disease-relevant phenotypes. I aim to build clinically relevant microphysiological models for therapeutic discovery, regenerative medicine, and mechanistic studies of development and disease.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "2206 BioEngineering Bldg.",
+      "postalCode": "93106",
+      "city": "Santa Barbara",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "ORCID",
+        "username": "0000-0003-0144-0107",
+        "url": "https://orcid.org/0000-0003-0144-0107"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Pankaj Mogha",
+        "url": "https://scholar.google.com/citations?user=3grCAfEAAAAJ&hl=en"
+      },
+      {
+        "network": "X",
+        "username": "Pankaj_27March",
+        "url": "https://twitter.com/Pankaj_27March"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Dey Lab, UC Santa Barbara",
+      "position": "Postdoctoral Scholar",
+      "startDate": "2023-04-01",
+      "summary": "Investigating the role of RNA structure and RNA modifications during development.",
+      "highlights": [
+        "Applying single-cell sequencing approaches to study developmental and disease-relevant biology."
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Varghese Lab, Duke University",
+      "position": "Postdoctoral Scholar",
+      "startDate": "2022-04-01",
+      "endDate": "2023-04-01",
+      "summary": "Developed in vitro disease models for lung extravasation and mechanical nociception.",
+      "highlights": [
+        "Contributed to modular hydrogel-supported vascularized alveolosphere-on-a-chip models for pollutant exposure studies."
+      ]
+    },
+    {
+      "name": "M-Lab, IIT Bombay",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2021-07-01",
+      "endDate": "2021-12-01",
+      "summary": "Explored effects of ECM protein coating on stem cell proliferation.",
+      "highlights": [
+        "Investigated ECM protein gelatin for long-term culture and expansion of mesenchymal stem cells."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Indian Institute of Technology Bombay",
+      "location": "Mumbai, India",
+      "area": "Effect of cellular microenvironment on primary stem cell maintenance, expansion, and proliferation",
+      "studyType": "Ph.D.",
+      "startDate": "2014-12-01",
+      "endDate": "2021-07-01",
+      "courses": [
+        "Prof. KC Khilar Ph.D. Award"
+      ]
+    },
+    {
+      "institution": "Central Queensland University",
+      "location": "Brisbane, Australia",
+      "studyType": "Graduate Diploma in Management",
+      "endDate": "2012-01-01"
+    },
+    {
+      "institution": "Queensland University of Technology",
+      "location": "Brisbane, Australia",
+      "area": "Epitope identification of CMRF44 antibody",
+      "studyType": "M.S., Biotechnology",
+      "endDate": "2012-01-01"
+    },
+    {
+      "institution": "Uttar Pradesh Technical University",
+      "location": "Lucknow, India",
+      "area": "Cloning of PLD gene from Chlamydia trachomatis",
+      "studyType": "Bachelors",
+      "endDate": "2009-01-01"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Prof. KC Khilar Best Thesis Award",
+      "date": "2023-01-01",
+      "awarder": "IIT Bombay"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Travel Award",
+      "date": "2019-01-01",
+      "awarder": "EMBO"
     },
     {
-      "name": "Quantum Information",
+      "title": "Travel Award",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "awarder": "CCMB"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "title": "Best Poster Award",
+      "awarder": "IIT Kanpur"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Consolation Prize",
+      "awarder": "IIT Roorkee"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Shape, Shrink, Spheroid: A DIY High-throughput Spheroid Generation Device",
+      "publisher": "bioRxiv",
+      "releaseDate": "2026-06-03",
+      "url": "https://doi.org/10.64898/2026.05.31.729042",
+      "summary": "Mogha, P., Mukherjee, S., Gangwar, T., Roy, D., Vichare, A., Kulkarni, S., Sharma, V., & Majumder, A."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Modeling functional responses to pollutant exposure using modular hydrogel supported vascularized alveolosphere-on-a-chip",
+      "publisher": "Biomaterials Science",
+      "releaseDate": "2025-01-01",
+      "summary": "Perikamana, S. K. M., Kumar, V., Mogha, P., Duncan, L., Tata, A., Jabba, S. V., Jordt, S. E., Tata, P., & Varghese, S. 13(21):6046."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Differential roles of normal and lung cancer-associated fibroblasts in microvascular network formation",
+      "publisher": "APL Bioengineering",
+      "releaseDate": "2024-01-01",
+      "summary": "Natesh, N. R., Mogha, P., Chen, A., Antonia, S. J., & Varghese, S. 8(1):016120."
+    },
+    {
+      "name": "Self-assembled innervated vasculature-on-a-chip to study nociception",
+      "publisher": "Biofabrication",
+      "releaseDate": "2023-01-01",
+      "summary": "Kumar, V., Kingsley, D., Perikamana, S. M., Mogha, P., Goodwin, C. R., & Varghese, S. 15(3)."
+    },
+    {
+      "name": "Extracellular matrix protein gelatin provides higher expansion, reduces size heterogeneity, and maintains cell stiffness in a long-term culture of mesenchymal stem cells",
+      "publisher": "Tissue and Cell",
+      "releaseDate": "2022-01-01",
+      "summary": "Mogha, P., Iyer, S., & Majumder, A. 80:101969."
+    },
+    {
+      "name": "Mycobacterium lipids modulate host cell membrane mechanics, lipid diffusivity, and cytoskeleton in a virulence-selective manner",
+      "publisher": "ACS Infectious Diseases",
+      "releaseDate": "2020-01-01",
+      "summary": "Mishra, M., Dadhich, R., Mogha, P., & Kapoor, S. 6:2386-2399."
+    },
+    {
+      "name": "Soft substrate maintains proliferative and adipogenic differentiation potential of human mesenchymal stem cells on long-term expansion by delaying senescence",
+      "publisher": "Biology Open",
+      "releaseDate": "2019-01-01",
+      "summary": "Kureel, S. K., Mogha, P., Khadpekar, A., Kumar, V., Joshi, R., Das, S., Bellare, J., & Majumder, A. 8."
+    },
+    {
+      "name": "Hydrogel scaffold with substrate elasticity mimicking physiological-niche promotes proliferation of functional keratinocytes",
+      "publisher": "RSC Advances",
+      "releaseDate": "2019-01-01",
+      "summary": "Mogha, P., et al. 9:10174-10183."
+    },
+    {
+      "name": "Cell density overrides the effect of substrate stiffness on human mesenchymal stem cells' morphology and proliferation",
+      "publisher": "Biomaterials Science",
+      "releaseDate": "2018-01-01",
+      "summary": "Venugopal, B., Mogha, P., Dhawan, J., & Majumder, A. 6:1109-1119."
+    },
+    {
+      "name": "Matrix elasticity regulates mesenchymal stem cell chemotaxis",
+      "publisher": "Journal of Cell Science",
+      "releaseDate": "2018-01-01",
+      "summary": "Saxena, N., Mogha, P., Dash, S., Majumder, A., Jadhav, S., & Sen, S. 131:jcs211391."
+    },
+    {
+      "name": "Soft drug-resistant ovarian cancer cells migrate via two distinct mechanisms utilizing myosin II-based contractility",
+      "publisher": "Biochimica et Biophysica Acta",
+      "releaseDate": "2018-01-01",
+      "summary": "Kapoor, A., et al. 1865:392-405."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Organ-on-Chip and Disease Models",
+      "level": "Research",
+      "icon": "fa-solid fa-flask",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Vascularized organ-on-chip systems",
+        "Alveolosphere-on-a-chip",
+        "In vitro lung extravasation models",
+        "Nociception models",
+        "Spheroid generation devices"
+      ]
+    },
+    {
+      "name": "Mechanobiology and Biomaterials",
+      "level": "Research",
+      "icon": "fa-solid fa-microscope",
+      "keywords": [
+        "ECM protein coatings",
+        "Matrix stiffness",
+        "Hydrogel scaffolds",
+        "Substrate elasticity",
+        "Cell-matrix and cell-cell force interactions"
+      ]
+    },
+    {
+      "name": "Stem Cell and Cell Biology",
+      "level": "Research",
+      "icon": "fa-solid fa-dna",
+      "keywords": [
+        "Primary stem cell maintenance",
+        "Mesenchymal stem cells",
+        "Keratinocytes",
+        "Fibroblast biology",
+        "Cancer-associated fibroblast differentiation"
+      ]
+    },
+    {
+      "name": "Omics and Developmental Biology",
+      "level": "Research",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": [
+        "Single-cell sequencing",
+        "Spatial omics",
+        "RNA structure",
+        "RNA modifications during development"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "English",
+      "fluency": "Professional"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "language": "Hindi",
+      "fluency": "Professional"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Research Interests",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Microphysiological systems",
+        "Regenerative medicine",
+        "Therapeutic discovery",
+        "Development and disease",
+        "Cellular microenvironment"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Reviewer Service",
+      "icon": "fa-solid fa-clipboard-check",
+      "reference": "Reviewer for APL Bioengineering, Bio-protocol, Journal of Pharmaceutical Innovation, and BMC Plastic and Reconstructive Surgery."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Patent",
+      "icon": "fa-solid fa-file-lines",
+      "reference": "Fabrication of low-cost high-throughput spheroid generation device, Indian Patent Application No. 202421044714, submitted June 10, 2024."
     }
   ]
 }
