@@ -451,51 +451,31 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-rna-structure-determination",
-          title: 'RNA structure determination',
-          description: "",
+          section: "News",},{id: "projects-rna-structure-and-modifications",
+          title: 'RNA structure and modifications',
+          description: "RNA structure, RNA modifications, and developmental regulation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-organ-on-chip",
-          title: 'Organ-on-chip',
-          description: "",
+            },},{id: "projects-organ-on-chip-and-microphysiological-disease-models",
+          title: 'Organ-on-chip and microphysiological disease models',
+          description: "Vascularized and innervated tissue-chip models for human-relevant disease biology.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-single-cell-spatial-transcriptomics",
-          title: 'Single-cell spatial transcriptomics',
-          description: "",
+            },},{id: "projects-single-cell-and-spatial-transcriptomics",
+          title: 'Single-cell and spatial transcriptomics',
+          description: "Mapping cellular heterogeneity, tissue organization, and molecular programs.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-mechanobiology-and-stem-cell-engineering",
+          title: 'Mechanobiology and stem cell engineering',
+          description: "Matrix mechanics, ECM cues, and stem cell fate regulation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-spheroid-generation-and-tissue-engineering-platforms",
+          title: 'Spheroid generation and tissue engineering platforms',
+          description: "Low-cost, high-throughput platforms for 3D cell culture and tissue modeling.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
