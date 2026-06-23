@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Academic CV for Pankaj Mogha, Ph.D.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -502,6 +502,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%62%69%6F%74%65%63%68.%70%61%6E%6B%61%6A@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0003-0144-0107", "_blank");
         },
       },{
         id: 'social-scholar',
