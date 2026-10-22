@@ -2,10 +2,12 @@
 layout: page
 title: Organ-on-chip and microphysiological disease models
 description: Vascularized and innervated tissue-chip models for human-relevant disease biology.
-img:
+img: assets/img/organ-on-chip-vascularized-model.jpg
 importance: 2
 category: work
 ---
+
+{% include figure.liquid loading="eager" path="assets/img/organ-on-chip-vascularized-model.jpg" alt="Illustration of a vascularized organ-on-chip model with PDMS pillars, endothelial vessels in a hydrogel channel, and perfusion channels" class="img-fluid rounded" %}
 
 Organ-on-chip systems are engineered microphysiological platforms that recreate key structural, mechanical, biochemical, and cellular features of human tissues in vitro. They are needed because conventional two-dimensional cell culture and many animal models often fail to capture the complex tissue architecture, fluid flow, matrix mechanics, vascular interfaces, immune interactions, and disease-relevant microenvironments that shape human biology.
 
