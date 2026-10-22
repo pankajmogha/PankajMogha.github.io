@@ -16,6 +16,8 @@ category: work
   </div>
 </div>
 
+<p class="text-muted small"><strong>Note:</strong> These 3D illustrations were created with AI assistance using original images as references, to improve visualization.</p>
+
 Organ-on-chip systems are engineered microphysiological platforms that recreate key structural, mechanical, biochemical, and cellular features of human tissues in vitro. They are needed because conventional two-dimensional cell culture and many animal models often fail to capture the complex tissue architecture, fluid flow, matrix mechanics, vascular interfaces, immune interactions, and disease-relevant microenvironments that shape human biology.
 
 This project builds on my work with vascularized and innervated in vitro models, including alveolosphere-on-chip systems for pollutant exposure, innervated vasculature-on-chip models for nociception, and microvascular networks shaped by normal and lung cancer-associated fibroblasts. These systems provide controlled ways to study cell-cell communication, vascular function, tissue organization, disease phenotypes, and therapeutic response in human-relevant settings.
