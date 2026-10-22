@@ -7,7 +7,14 @@ importance: 2
 category: work
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/organ-on-chip-vascularized-model.jpg" alt="Illustration of a vascularized organ-on-chip model with PDMS pillars, endothelial vessels in a hydrogel channel, and perfusion channels" class="img-fluid rounded" %}
+<div class="row align-items-center">
+  <div class="col-md-6">
+    {% include figure.liquid loading="eager" path="assets/img/organ-on-chip-vascularized-model.jpg" sizes="(min-width: 768px) 50vw, 100vw" alt="Illustration of a vascularized organ-on-chip model with PDMS pillars, endothelial vessels in a hydrogel channel, and perfusion channels" class="img-fluid rounded" %}
+  </div>
+  <div class="col-md-6">
+    {% include figure.liquid loading="eager" path="assets/img/organ-on-chip-organoid-model.jpg" sizes="(min-width: 768px) 50vw, 100vw" alt="Illustration of an organoid in an organ-on-chip device with endothelial blood vessels, fibroblasts, extracellular matrix, and perfusion flow" class="img-fluid rounded" %}
+  </div>
+</div>
 
 Organ-on-chip systems are engineered microphysiological platforms that recreate key structural, mechanical, biochemical, and cellular features of human tissues in vitro. They are needed because conventional two-dimensional cell culture and many animal models often fail to capture the complex tissue architecture, fluid flow, matrix mechanics, vascular interfaces, immune interactions, and disease-relevant microenvironments that shape human biology.
 
